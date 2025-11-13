@@ -1,0 +1,5 @@
+{
+  "name": "Multi-language User Management System",
+  "description": "A comprehensive user management system with multi-language support (Spanish, English, Chinese), authentication via Supabase, and integration with Google Apps Script for logging actions.",
+  "requestFramePermissions": []
+}
